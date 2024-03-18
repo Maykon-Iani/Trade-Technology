@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3453FCC1-A8CF-4666-89FE-5A247856DAB8}|Trade.Technology\\Trade.Technology.csproj|c:\\users\\maykon iani\\source\\repos\\trade.technology\\trade.technology\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3453FCC1-A8CF-4666-89FE-5A247856DAB8}|Trade.Technology\\Trade.Technology.csproj|solutionrelative:trade.technology\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9801ADDE-A1D3-40FE-A4A5-E672FFBCD92E}|Trade.Infra.Data\\Trade.Infra.Data.csproj|c:\\users\\maykon iani\\source\\repos\\trade.technology\\trade.infra.data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9801ADDE-A1D3-40FE-A4A5-E672FFBCD92E}|Trade.Infra.Data\\Trade.Infra.Data.csproj|solutionrelative:trade.infra.data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433B3A66-0D35-4CDE-B08F-DACDCC48F678}|Trade.Service\\Trade.Service.csproj|c:\\users\\maykon iani\\source\\repos\\trade.technology\\trade.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433B3A66-0D35-4CDE-B08F-DACDCC48F678}|Trade.Service\\Trade.Service.csproj|solutionrelative:trade.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433B3A66-0D35-4CDE-B08F-DACDCC48F678}|Trade.Service\\Trade.Service.csproj|c:\\users\\maykon iani\\source\\repos\\trade.technology\\trade.service\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433B3A66-0D35-4CDE-B08F-DACDCC48F678}|Trade.Service\\Trade.Service.csproj|solutionrelative:trade.service\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80D883-912C-4B0B-AAC9-66AF40533C2C}|Trade.Domain\\Trade.Domain.csproj|c:\\users\\maykon iani\\source\\repos\\trade.technology\\trade.domain\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F80D883-912C-4B0B-AAC9-66AF40533C2C}|Trade.Domain\\Trade.Domain.csproj|solutionrelative:trade.domain\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3453FCC1-A8CF-4666-89FE-5A247856DAB8}|Trade.Technology\\Trade.Technology.csproj|c:\\users\\maykon iani\\source\\repos\\trade.technology\\trade.technology\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3453FCC1-A8CF-4666-89FE-5A247856DAB8}|Trade.Technology\\Trade.Technology.csproj|solutionrelative:trade.technology\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B15218A-49AD-4C7E-A105-C54426C5484C}|Trade.UnitTests\\Trade.UnitTests.csproj|c:\\users\\maykon iani\\source\\repos\\trade.technology\\trade.unittests\\controller\\testusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B15218A-49AD-4C7E-A105-C54426C5484C}|Trade.UnitTests\\Trade.UnitTests.csproj|solutionrelative:trade.unittests\\controller\\testusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3453FCC1-A8CF-4666-89FE-5A247856DAB8}|Trade.Technology\\Trade.Technology.csproj|c:\\users\\maykon iani\\source\\repos\\trade.technology\\trade.technology\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3453FCC1-A8CF-4666-89FE-5A247856DAB8}|Trade.Technology\\Trade.Technology.csproj|solutionrelative:trade.technology\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B15218A-49AD-4C7E-A105-C54426C5484C}|Trade.UnitTests\\Trade.UnitTests.csproj|c:\\users\\maykon iani\\source\\repos\\trade.technology\\trade.unittests\\mockdata\\usermockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B15218A-49AD-4C7E-A105-C54426C5484C}|Trade.UnitTests\\Trade.UnitTests.csproj|solutionrelative:trade.unittests\\mockdata\\usermockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80D883-912C-4B0B-AAC9-66AF40533C2C}|Trade.Domain\\Trade.Domain.csproj|c:\\users\\maykon iani\\source\\repos\\trade.technology\\trade.domain\\entities\\documents\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F80D883-912C-4B0B-AAC9-66AF40533C2C}|Trade.Domain\\Trade.Domain.csproj|solutionrelative:trade.domain\\entities\\documents\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80D883-912C-4B0B-AAC9-66AF40533C2C}|Trade.Domain\\Trade.Domain.csproj|c:\\users\\maykon iani\\source\\repos\\trade.technology\\trade.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F80D883-912C-4B0B-AAC9-66AF40533C2C}|Trade.Domain\\Trade.Domain.csproj|solutionrelative:trade.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3453FCC1-A8CF-4666-89FE-5A247856DAB8}|Trade.Technology\\Trade.Technology.csproj|c:\\users\\maykon iani\\source\\repos\\trade.technology\\trade.technology\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3453FCC1-A8CF-4666-89FE-5A247856DAB8}|Trade.Technology\\Trade.Technology.csproj|solutionrelative:trade.technology\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3453FCC1-A8CF-4666-89FE-5A247856DAB8}|Trade.Technology\\Trade.Technology.csproj|c:\\users\\maykon iani\\source\\repos\\trade.technology\\trade.technology\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3453FCC1-A8CF-4666-89FE-5A247856DAB8}|Trade.Technology\\Trade.Technology.csproj|solutionrelative:trade.technology\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Service\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "Trade.Service\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Service\\Services\\ClientService.cs",
+              "RelativeToolTip": "Trade.Service\\Services\\ClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:45:31.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Trade.Technology\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Trade.Technology\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:42:49.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserMockData.cs",
+              "DocumentMoniker": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.UnitTests\\MockData\\UserMockData.cs",
+              "RelativeDocumentMoniker": "Trade.UnitTests\\MockData\\UserMockData.cs",
+              "ToolTip": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.UnitTests\\MockData\\UserMockData.cs",
+              "RelativeToolTip": "Trade.UnitTests\\MockData\\UserMockData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:24:38.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestUserController.cs",
+              "DocumentMoniker": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.UnitTests\\Controller\\TestUserController.cs",
+              "RelativeDocumentMoniker": "Trade.UnitTests\\Controller\\TestUserController.cs",
+              "ToolTip": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.UnitTests\\Controller\\TestUserController.cs",
+              "RelativeToolTip": "Trade.UnitTests\\Controller\\TestUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:23:42.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\Dockerfile",
+              "RelativeDocumentMoniker": "Trade.Technology\\Dockerfile",
+              "ToolTip": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\Dockerfile",
+              "RelativeToolTip": "Trade.Technology\\Dockerfile",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-17T13:51:54.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Domain\\Entities\\Documents\\Document.cs",
+              "RelativeDocumentMoniker": "Trade.Domain\\Entities\\Documents\\Document.cs",
+              "ToolTip": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Domain\\Entities\\Documents\\Document.cs",
+              "RelativeToolTip": "Trade.Domain\\Entities\\Documents\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T23:04:04.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Infra.Data\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Trade.Infra.Data\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Infra.Data\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Trade.Infra.Data\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T22:56:22.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\Program.cs",
+              "RelativeDocumentMoniker": "Trade.Technology\\Program.cs",
+              "ToolTip": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\Program.cs",
+              "RelativeToolTip": "Trade.Technology\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAEwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T22:25:33.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\appsettings.json",
+              "RelativeDocumentMoniker": "Trade.Technology\\appsettings.json",
+              "ToolTip": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\appsettings.json",
+              "RelativeToolTip": "Trade.Technology\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T22:20:43.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Trade.Technology\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Trade.Technology\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T22:00:41.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Domain\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Trade.Domain\\Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Domain\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "Trade.Domain\\Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:42:20.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Trade.Service\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Service\\Services\\UserService.cs",
+              "RelativeToolTip": "Trade.Service\\Services\\UserService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:41:50.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Trade.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Trade.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:32:54.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

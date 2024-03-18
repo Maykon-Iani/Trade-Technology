@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "90pJGj+aTXQnV9orXuIz9AI3V3Q2pDcQJujIVMjmu9c=",
+  "Source": "Trade.Technology",
+  "BasePath": "_content/Trade.Technology",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Trade.Technology\\wwwroot",
+      "Source": "Trade.Technology",
+      "ContentRoot": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\wwwroot\\",
+      "BasePath": "_content/Trade.Technology",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\wwwroot\\uploads\\06dff3ae-5701-4845-9f82-0fd03f3578ec..xlsx",
+      "SourceId": "Trade.Technology",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\wwwroot\\",
+      "BasePath": "_content/Trade.Technology",
+      "RelativePath": "uploads/06dff3ae-5701-4845-9f82-0fd03f3578ec..xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\06dff3ae-5701-4845-9f82-0fd03f3578ec..xlsx"
+    },
+    {
+      "Identity": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\wwwroot\\uploads\\accca19f-e295-4462-a7d1-1b270896810f..xlsx",
+      "SourceId": "Trade.Technology",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\wwwroot\\",
+      "BasePath": "_content/Trade.Technology",
+      "RelativePath": "uploads/accca19f-e295-4462-a7d1-1b270896810f..xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\accca19f-e295-4462-a7d1-1b270896810f..xlsx"
+    },
+    {
+      "Identity": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\wwwroot\\uploads\\f5aeaf1e-3b02-440a-a788-8b7911514572..xlsx",
+      "SourceId": "Trade.Technology",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\wwwroot\\",
+      "BasePath": "_content/Trade.Technology",
+      "RelativePath": "uploads/f5aeaf1e-3b02-440a-a788-8b7911514572..xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f5aeaf1e-3b02-440a-a788-8b7911514572..xlsx"
+    }
+  ]
+}

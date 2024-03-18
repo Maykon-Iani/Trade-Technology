@@ -1,0 +1,12 @@
+C:\Users\Maykon Iani\source\repos\Trade.Technology\Trade.Domain\bin\Debug\net8.0\Trade.Domain.deps.json
+C:\Users\Maykon Iani\source\repos\Trade.Technology\Trade.Domain\bin\Debug\net8.0\Trade.Domain.dll
+C:\Users\Maykon Iani\source\repos\Trade.Technology\Trade.Domain\bin\Debug\net8.0\Trade.Domain.pdb
+C:\Users\Maykon Iani\source\repos\Trade.Technology\Trade.Domain\obj\Debug\net8.0\Trade.Domain.csproj.AssemblyReference.cache
+C:\Users\Maykon Iani\source\repos\Trade.Technology\Trade.Domain\obj\Debug\net8.0\Trade.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maykon Iani\source\repos\Trade.Technology\Trade.Domain\obj\Debug\net8.0\Trade.Domain.AssemblyInfoInputs.cache
+C:\Users\Maykon Iani\source\repos\Trade.Technology\Trade.Domain\obj\Debug\net8.0\Trade.Domain.AssemblyInfo.cs
+C:\Users\Maykon Iani\source\repos\Trade.Technology\Trade.Domain\obj\Debug\net8.0\Trade.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Maykon Iani\source\repos\Trade.Technology\Trade.Domain\obj\Debug\net8.0\Trade.Domain.dll
+C:\Users\Maykon Iani\source\repos\Trade.Technology\Trade.Domain\obj\Debug\net8.0\refint\Trade.Domain.dll
+C:\Users\Maykon Iani\source\repos\Trade.Technology\Trade.Domain\obj\Debug\net8.0\Trade.Domain.pdb
+C:\Users\Maykon Iani\source\repos\Trade.Technology\Trade.Domain\obj\Debug\net8.0\ref\Trade.Domain.dll

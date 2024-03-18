@@ -1,0 +1,39 @@
+{
+  "ContentRoots": [
+    "/app/wwwroot/"
+  ],
+  "Root": {
+    "Children": {
+      "uploads": {
+        "Children": {
+          "accca19f-e295-4462-a7d1-1b270896810f..xlsx": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "uploads/accca19f-e295-4462-a7d1-1b270896810f..xlsx"
+            },
+            "Patterns": null
+          },
+          "f5aeaf1e-3b02-440a-a788-8b7911514572..xlsx": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "uploads/f5aeaf1e-3b02-440a-a788-8b7911514572..xlsx"
+            },
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      }
+    },
+    "Asset": null,
+    "Patterns": [
+      {
+        "ContentRootIndex": 0,
+        "Pattern": "**",
+        "Depth": 0
+      }
+    ]
+  }
+}

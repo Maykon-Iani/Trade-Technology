@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\wwwroot\\uploads\\06dff3ae-5701-4845-9f82-0fd03f3578ec..xlsx",
+      "PackagePath": "staticwebassets\\uploads\\06dff3ae-5701-4845-9f82-0fd03f3578ec..xlsx"
+    },
+    {
+      "Id": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\wwwroot\\uploads\\accca19f-e295-4462-a7d1-1b270896810f..xlsx",
+      "PackagePath": "staticwebassets\\uploads\\accca19f-e295-4462-a7d1-1b270896810f..xlsx"
+    },
+    {
+      "Id": "C:\\Users\\Maykon Iani\\source\\repos\\Trade.Technology\\Trade.Technology\\wwwroot\\uploads\\f5aeaf1e-3b02-440a-a788-8b7911514572..xlsx",
+      "PackagePath": "staticwebassets\\uploads\\f5aeaf1e-3b02-440a-a788-8b7911514572..xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Trade.Technology.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Trade.Technology.props",
+      "PackagePath": "build\\Trade.Technology.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Trade.Technology.props",
+      "PackagePath": "buildMultiTargeting\\Trade.Technology.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Trade.Technology.props",
+      "PackagePath": "buildTransitive\\Trade.Technology.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
